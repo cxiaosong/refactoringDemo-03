@@ -1,4 +1,4 @@
-package chang.refactoringDemoProject;
+package chang.refactoringDemoProject_02;
 
 /**
  * Hello world!
