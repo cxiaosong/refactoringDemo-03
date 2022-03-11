@@ -5,7 +5,7 @@ public class dog extends Animal{
 		dog dog =new dog();
 		int times=10;
 		wangWang(times);   
-	}
+	} 
 
 	private static void wangWang(int times) {
 		for (int i = 0; i < times; i++) {
