@@ -7,7 +7,7 @@ public class dog extends Animal{
 		for (int i = 0; i < times; i++) {
 			System.out.println("汪汪汪");
 			
-		}  
+		}   
 	}
 
 	 
