@@ -7,13 +7,6 @@ public class dog extends Animal{
 		sayWangWang(times); 
 	}
 
-	private static void sayWangWang(int times) {
-		for (int i = 0; i < times; i++) {
-			System.out.println("汪汪汪");
-			
-		}
-	}
-
 
 	
 }
