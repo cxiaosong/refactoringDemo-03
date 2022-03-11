@@ -4,7 +4,7 @@ public class dog {
 	public static void main(String[] args) {
 		
 		int times=10;
-		sayWangWang(times);
+		sayWangWang(times); 
 	}
 
 	private static void sayWangWang(int times) {
